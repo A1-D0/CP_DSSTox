@@ -1,0 +1,4 @@
+puc_id,gen_cat,prod_fam,prod_type,description,puc_code,kind
+1,General,Fam A,Type A,Desc A,Code A,F
+2,Industrial,,Type B,Desc B,Code B,A
+3,Agricultural,Fam C,,Desc C,,O

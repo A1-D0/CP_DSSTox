@@ -1,0 +1,4 @@
+document_id,product_id,chemical_id,functional_use_id,puc_id,classification,prod_title,brand_name,raw_min_comp,raw_central_comp,raw_max_comp,clean_min_wf,clean_central_wf,clean_max_wf
+1,101,1,1.0,1,MA,Product A,Brand A,0.1,0.15,0.2,0.1,0.15,0.2
+2,102,2,,2,MB,Product B,NA,0.2,,0.25,0.2,,0.25
+3,103,3,3.0,3,PR,Product C,,0.3,0.35,,0.3,0.35,

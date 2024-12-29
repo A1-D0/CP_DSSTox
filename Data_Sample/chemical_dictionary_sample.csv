@@ -1,0 +1,4 @@
+chemical_id,raw_chem_name,raw_casrn,preferred_name,preferred_casrn,DTXSID,curation_level
+1,RawChemA,50-00-0,PrefChemA,50-00-0,DTXSID001,C
+2,RawChemB,NA,,64-17-5,DTXSID002,
+3,RawChemC,,PrefChemC,,DTXSID003,PR

@@ -1,0 +1,4 @@
+chemical_id,functional_use_id,report_funcuse,oecd_function
+1,1,Function A,OECD A
+2,2,,OECD B
+3,3,Function C,

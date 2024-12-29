@@ -1,0 +1,4 @@
+DTXSID,preferred_name,preferred_casrn,harmonized_function,probability
+DTXSID001,Chemical A,50-00-0,antimicrobial,0.85
+DTXSID002,Chemical B,64-17-5,soluble_dye,
+DTXSID003,Chemical C,67-56-1,flame_retardant,0.75
